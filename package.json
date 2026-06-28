@@ -1,0 +1,9 @@
+{
+  "name": "ai-career-coach-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "install-backend": "cd backend && npm install",
+    "postinstall": "npm run install-backend"
+  }
+}
