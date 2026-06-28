@@ -3,7 +3,9 @@
 NextPath AI is a feature-rich, high-performance, and visually stunning web application designed to act as a personal career advisor. Powered by the **Google Gemini API** and built with modern Web technologies, it handles everything from resume compatibility scoring to mock interviews and coding exercises, helping candidates fast-track their hiring pipeline.
 
 Developed by **Mohammad Tausif**.
+## 🎥 Demo Video
 
+[📹 Demo Video (MKV)](./2026-06-28%2020-33-16.mkv)
 ---
 
 ## 🌟 Key Features
